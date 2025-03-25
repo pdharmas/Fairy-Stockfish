@@ -13,6 +13,7 @@
 </p>
 
 
+
 The package **ffish.js** is a high performance WebAssembly chess variant library based on [_Fairy-Stockfish_](https://github.com/ianfab/Fairy-Stockfish).
 
 It is available as a [standard module](https://www.npmjs.com/package/ffish), as an [ES6 module](https://www.npmjs.com/package/ffish-es6) and aims to have a syntax similar to [python-chess](https://python-chess.readthedocs.io/en/latest/index.html).
